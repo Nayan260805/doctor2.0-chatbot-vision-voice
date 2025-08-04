@@ -114,7 +114,7 @@ def text_to_speech_with_gtts(input_text, output_filepath):
         print(f"An error occurred while trying to play the audio: {e}")
 
 
-input_text="Hi this is Atharva raut, autoplaytesting it is! with gTTS model."
+input_text="Hi this is Nayan Pilllewar, autoplaytesting it is! with gTTS model."
 #text_to_speech_with_gtts(input_text=input_text, output_filepath="gtts_testing_autoplay.wav")
 
 
